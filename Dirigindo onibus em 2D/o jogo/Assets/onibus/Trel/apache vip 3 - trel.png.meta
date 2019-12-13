@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: fad78ede7e9a0d74da3937a56098d5ca
+timeCreated: 1445722957
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: trel_3
+    21300002: trel_5
+    21300004: trel_6
+    21300006: trel_7
+    21300008: trel_8
+    21300010: trel_9
+    21300012: trel_10
+    21300014: trel_26
+    21300016: trel_33
+    21300018: trel_37
+    21300020: trel_51
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: trel_3
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 496
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trel_5
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 496
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trel_6
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 496
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trel_7
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 496
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trel_8
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 496
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trel_9
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 496
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trel_10
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 496
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trel_26
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 496
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trel_33
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 270
+        width: 779
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trel_37
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 54
+        width: 771
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: trel_51
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 16
+        width: 133
+        height: 22
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

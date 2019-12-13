@@ -1,0 +1,367 @@
+fileFormatVersion: 2
+guid: d4a4065e46d0e68409999e2949ecb202
+timeCreated: 1477165231
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: arvores nova_0
+    21300002: arvores nova_1
+    21300004: arvores nova_2
+    21300006: arvores nova_3
+    21300008: arvores nova_4
+    21300010: arvores nova_5
+    21300012: arvores nova_6
+    21300014: arvores nova_7
+    21300016: arvores nova_8
+    21300018: arvores nova_9
+    21300020: arvores nova_10
+    21300022: arvores nova_11
+    21300024: arvores nova_12
+    21300026: arvores nova_13
+    21300028: arvores nova_14
+    21300030: arvores nova_15
+    21300032: arvores nova_16
+    21300034: arvores nova_17
+    21300036: arvores nova_18
+    21300038: arvores nova_19
+    21300040: arvores nova_20
+    21300042: arvores nova_21
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: arvores nova_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 837
+        width: 185
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_1
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 834
+        width: 83
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_2
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 836
+        width: 220
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 836
+        width: 48
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_4
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 836
+        width: 132
+        height: 343
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_5
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 833
+        width: 107
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_6
+      rect:
+        serializedVersion: 2
+        x: 879
+        y: 837
+        width: 155
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_7
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 621
+        width: 116
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 521
+        width: 144
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_9
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 521
+        width: 146
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_10
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 520
+        width: 228
+        height: 248
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_11
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 521
+        width: 220
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_12
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 646
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_13
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 522
+        width: 126
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_14
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 518
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_15
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 521
+        width: 90
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_16
+      rect:
+        serializedVersion: 2
+        x: 1175
+        y: 114
+        width: 97
+        height: 460
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_17
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 117
+        width: 256
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 125
+        width: 162
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_19
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 116
+        width: 158
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_20
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 118
+        width: 126
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: arvores nova_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1300
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
