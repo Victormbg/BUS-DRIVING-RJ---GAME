@@ -1,5 +1,0 @@
-sceneSetups:
-- path: "C:/Users/Victor/Desktop/VICTOR/INFORMA\xC7\xD5ES/CRIAR JOGOS/unity/OUTROS
-    JOGOS/Fuja dos monstros/wander gordo/Assets/Fuja dos monstrons.unity"
-  isLoaded: 1
-  isActive: 1
